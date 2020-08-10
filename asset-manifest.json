@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gitmail/static/css/main.838cdb01.chunk.css",
-    "main.js": "/gitmail/static/js/main.b3a2181d.chunk.js",
-    "main.js.map": "/gitmail/static/js/main.b3a2181d.chunk.js.map",
-    "runtime-main.js": "/gitmail/static/js/runtime-main.561a4b71.js",
-    "runtime-main.js.map": "/gitmail/static/js/runtime-main.561a4b71.js.map",
-    "static/js/2.e63d9c94.chunk.js": "/gitmail/static/js/2.e63d9c94.chunk.js",
-    "static/js/2.e63d9c94.chunk.js.map": "/gitmail/static/js/2.e63d9c94.chunk.js.map",
-    "index.html": "/gitmail/index.html",
-    "precache-manifest.1eb9dab0c0f931cf02507002c5fc3240.js": "/gitmail/precache-manifest.1eb9dab0c0f931cf02507002c5fc3240.js",
-    "service-worker.js": "/gitmail/service-worker.js",
-    "static/css/main.838cdb01.chunk.css.map": "/gitmail/static/css/main.838cdb01.chunk.css.map",
-    "static/js/2.e63d9c94.chunk.js.LICENSE.txt": "/gitmail/static/js/2.e63d9c94.chunk.js.LICENSE.txt"
+    "main.css": "/wowufoundme.js.org/gitmail/static/css/main.838cdb01.chunk.css",
+    "main.js": "/wowufoundme.js.org/gitmail/static/js/main.b3a2181d.chunk.js",
+    "main.js.map": "/wowufoundme.js.org/gitmail/static/js/main.b3a2181d.chunk.js.map",
+    "runtime-main.js": "/wowufoundme.js.org/gitmail/static/js/runtime-main.9cf18bf8.js",
+    "runtime-main.js.map": "/wowufoundme.js.org/gitmail/static/js/runtime-main.9cf18bf8.js.map",
+    "static/js/2.e63d9c94.chunk.js": "/wowufoundme.js.org/gitmail/static/js/2.e63d9c94.chunk.js",
+    "static/js/2.e63d9c94.chunk.js.map": "/wowufoundme.js.org/gitmail/static/js/2.e63d9c94.chunk.js.map",
+    "index.html": "/wowufoundme.js.org/gitmail/index.html",
+    "precache-manifest.fbb1276d8922f052eeed613a423b6fd5.js": "/wowufoundme.js.org/gitmail/precache-manifest.fbb1276d8922f052eeed613a423b6fd5.js",
+    "service-worker.js": "/wowufoundme.js.org/gitmail/service-worker.js",
+    "static/css/main.838cdb01.chunk.css.map": "/wowufoundme.js.org/gitmail/static/css/main.838cdb01.chunk.css.map",
+    "static/js/2.e63d9c94.chunk.js.LICENSE.txt": "/wowufoundme.js.org/gitmail/static/js/2.e63d9c94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.561a4b71.js",
+    "static/js/runtime-main.9cf18bf8.js",
     "static/js/2.e63d9c94.chunk.js",
     "static/css/main.838cdb01.chunk.css",
     "static/js/main.b3a2181d.chunk.js"
