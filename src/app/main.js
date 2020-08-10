@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 const findAuthors = data => {
     const authors = [];
@@ -36,4 +36,4 @@ const findEmails = async username => {
     return [...new Set(emails)].filter(item => item);
 };
 
-module.exports = findEmails;
+export default findEmails;
